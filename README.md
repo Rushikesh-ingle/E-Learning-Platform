@@ -1,5 +1,20 @@
-📚 E-Learning Platform (React + TypeScript + Vite)
-This is a modern E-Learning Platform built using React, TypeScript, TailwindCSS, and Vite. It features a modular structure with routing, reusable components, mock data integration, and future extensibility.
+##📚 E-Learning Platform (React + TypeScript + Vite)
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: RUSHIKESH INGLE
+
+INTERN ID: CT08DF124
+
+DOMAIN: FRONT END DEVELOPMENT
+
+DURATION: 4 WEEEKS
+
+MENTOR: NEELA SANTOSH
+
+
+
+#This is a modern E-Learning Platform built using React, TypeScript, TailwindCSS, and Vite. It features a modular structure with routing, reusable components, mock data integration, and future extensibility.
 
 🚀 Features
 🧭 Routing: Built-in navigation using React Router DOM.

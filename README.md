@@ -1,4 +1,4 @@
-##📚 E-Learning Platform (React + TypeScript + Vite)##
+📚 E-Learning Platform (React + TypeScript + Vite)
 
 COMPANY: CODTECH IT SOLUTIONS
 
